@@ -1,16 +1,13 @@
 # kelly
 my first repository
 
-
 :::writing{variant=“document” id=“94721”}
 
 <!-- ======================= BANNER ======================= -->
 
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Kelly%20%7C%20Cybersecurity%20Analyst&fontSize=35&fontColor=ffffff" />
 </p>
-
 
 <!-- ======================= BADGES ======================= -->
 
@@ -24,7 +21,6 @@ my first repository
 
 
 
-⸻
 
 👩‍💻 Kelly — Aspiring SOC Analyst
 
@@ -32,18 +28,15 @@ my first repository
 
 I’m currently building practical, hands-on experience through labs, CTF challenges, and real-world simulations as I work toward my first role in cybersecurity.
 
-⸻
 
 👋 About Me
-	•	🎓 [Your Degree] in [Your Field] — [University Name]
-	•	📍 Based in [Your Location]
+	•	🎓 [cybersecurity] in [Computer science] — [Silicon Delta]
+	•	📍 Based in [Nigeria]
 	•	📜 Google Cybersecurity Certificate — Completed
 	•	🌱 Currently learning: Splunk, ELK Stack, TryHackMe
 	•	🎯 Goal: Land my first SOC Analyst role
 
 💡 I enjoy analyzing logs, detecting suspicious activity, and understanding how attacks happen—and how to stop them.
-
-⸻
 
 🔧 Skills & Tools
 
@@ -53,7 +46,6 @@ I’m currently building practical, hands-on experience through labs, CTF challe
 	•	Network Traffic Analysis
 	•	Basic Vulnerability Assessment
 
-⸻
 
 🧰 Tools
 
@@ -72,18 +64,12 @@ Nmap	🌱 Learning
 Wazuh	🌱 Learning
 
 
-⸻
-
 💻 Scripting
 	•	PowerShell (basic automation & scripting)
-
-⸻
 
 📚 Frameworks
 	•	NIST Cybersecurity Framework
 	•	MITRE ATT&CK
-
-⸻
 
 📂 Projects
 
@@ -93,8 +79,6 @@ Built a personal SOC lab using VirtualBox, integrating Splunk and Wazuh to monit
 
 Tools: Splunk Wazuh Linux VirtualBox
 🔗 View Project￼
-
-⸻
 
 🚩 CTF Writeups
 
@@ -107,23 +91,17 @@ Focus areas:
 
 🔗 View Writeups￼
 
-⸻
-
 🔍 Vulnerability Scanning Lab
 
 Scanned vulnerable machines like Metasploitable using Nessus and Nmap, then created structured reports.
 
-🔗 View Project￼
-
-⸻
+🔗 View Project
 
 📡 Network Traffic Analysis
 
 Captured and analyzed packets to detect suspicious behavior and anomalies.
 
 🔗 View Project￼
-
-⸻
 
 📜 Certifications
 
@@ -133,16 +111,11 @@ Captured and analyzed packets to detect suspicious behavior and anomalies.
   <img src="https://img.shields.io/badge/ISC2%20CC-Planned-lightgrey?style=flat"/>
 </p>
 
-
-
-⸻
-
 📫 Contact
-	•	💼 LinkedIn: https://linkedin.com/in/yourprofile
-	•	📧 Email: your@email.com
-	•	🐦 Twitter/X: https://twitter.com/yourhandle
+	•	💼 LinkedIn: https://linkedin.com/in/Uzoma happiness
+	•	📧 Email: kellysxx111@gmail.com
+	•	🐦 Twitter/X: https://twitter.com/KellyRems
 
-⸻
 
 🚀 Career Objective
 
@@ -151,27 +124,10 @@ Entry-level cybersecurity professional seeking a SOC Analyst role where I can:
 	•	Detect and respond to threats
 	•	Continuously improve security operations
 
-⸻
 
 
 <!-- ======================= FOOTER ======================= -->
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-</p>
-:::
-
-
-
-⸻
-
-Want it more ADVANCED? (optional upgrades)
-
-If you want to level it up further, I can add:
-	•	🔥 GitHub stats (activity graph, streaks)
-	•	🧠 ￼ “Threat Detection Methodology” section
-	•	📊 ￼ Sample SIEM dashboards screenshots
-	•	🛑 ￼ Incident response playbook section
-
-Just tell me: “make it more advanced” or “add GitHub stats” and I’ll upgrade it again.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=
