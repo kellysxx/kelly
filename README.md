@@ -1,13 +1,6 @@
 # kelly
 my first repository
-Great idea—this will make your GitHub stand out immediately.
 
-I’ve upgraded your README with:
-	•	🎨 A clean GitHub banner
-	•	🛡️ Aesthetic badges (Shields.io)
-	•	✨ A slightly more beginner-friendly but still professional tone
-
-⸻
 
 :::writing{variant=“document” id=“94721”}
 
