@@ -1,8 +1,5 @@
 # kelly
-my first repository
-
-:::writing{variant=“document” id=“94721”}
-
+my frist resp
 <!-- ======================= BANNER ======================= -->
 
 <p align="center">
@@ -112,7 +109,7 @@ Captured and analyzed packets to detect suspicious behavior and anomalies.
 </p>
 
 📫 Contact
-	•	💼 LinkedIn: https://linkedin.com/in/Uzoma happiness
+	•	💼 LinkedIn: https://linkedin.com/in/Uzomahappiness
 	•	📧 Email: kellysxx111@gmail.com
 	•	🐦 Twitter/X: https://twitter.com/KellyRems
 
