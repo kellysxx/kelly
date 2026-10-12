@@ -19,9 +19,10 @@ my frist resp
 
 
 
-👩‍💻 Kelly — Aspiring SOC Analyst
+👩‍💻 Kelechi Happiness Uzoma
+— Aspiring SOC Analyst
 
-👋 Hi, I’m Kelly, an aspiring Cybersecurity Analyst passionate about Threat Detection and Security Operations (SOC).
+  an aspiring Cybersecurity Analyst passionate about Threat Detection and Security Operations (SOC).
 
 I’m currently building practical, hands-on experience through labs, CTF challenges, and real-world simulations as I work toward my first role in cybersecurity.
 
